@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/go-xorm/xorm"
-        _ "github.com/mattn/go-sqlite3"
+	"github.com/lklcdu2010/xorm"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 // User describes a user
