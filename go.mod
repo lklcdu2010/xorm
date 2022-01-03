@@ -1,4 +1,4 @@
-module github.com/lklcdu2010/xorm
+module github.com/go-xorm/xorm
 
 go 1.11
 
